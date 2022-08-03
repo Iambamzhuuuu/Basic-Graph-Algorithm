@@ -29,7 +29,7 @@ void dfs(int x,int y){
  
 signed main(){
 	fastio
- 
+
 	cin>>n>>m;
 	int ans=0;
 	for(int i=0;i<n;++i){
